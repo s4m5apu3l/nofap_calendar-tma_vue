@@ -3,7 +3,7 @@
 <template>
   <header></header>
 
-  <main></main>
+  <main>test page</main>
 
   <footer></footer>
 </template>
